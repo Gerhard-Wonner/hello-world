@@ -7,3 +7,4 @@ The user "Gere-uebt" added this line on his fork.
 The user "Gere-uebt" added this line on a branch of his fork.  
 Gerhard-Wonner added this line on his "main" branch.  
 ("Gere-uebt" resolved the conflict while merging to the fork of "Gerhard-Wonner". He combined the changes of both main-branches.)  
+The user "Gere-uebt" added this line on his fork and tries to convince the project owner to include it. Communication via GitHub-issue. 
